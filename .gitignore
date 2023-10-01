@@ -7,7 +7,6 @@
 
 # Whitelist
 !tools/**
-*tools/.ipynb_checkpoints
 !graphs/databricks*
 !datasets/databricks*
 !datasets/bulk_databricks*
