@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Skip directories, so we can recurse into them
+!*/
+!/.gitignore
+
+# Whitelist
+!tools/**
+!graphs/databricks*
+!datasets/databricks*
+!datasets/bulk_databricks*
+!!topics_template.ipynb
+!/README.md
