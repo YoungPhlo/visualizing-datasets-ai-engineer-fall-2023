@@ -4,7 +4,7 @@
 
 # Ignore specific file types
 .ipynb_checkpoints
-*checkpoint.ipynb
+tools/.ipynb_checkpoints/
 
 # Skip directories, so we can recurse into them
 !*/
