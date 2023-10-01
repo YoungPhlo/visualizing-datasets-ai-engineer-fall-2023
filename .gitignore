@@ -1,5 +1,7 @@
 # Ignore everything
 *
+
+# Ignore specific file types
 .ipynb_checkpoints
 
 # Skip directories, so we can recurse into them
