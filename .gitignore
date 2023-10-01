@@ -1,9 +1,10 @@
-# Configure .gitignore as a whitelist instead of a blacklist
+# Configure .gitignore as a whitelist
 # Ignore everything
 *
 
 # Ignore specific file types
 .ipynb_checkpoints
+tools/.ipynb_checkpoints
 
 # Skip directories, so we can recurse into them
 !*/
