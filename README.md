@@ -41,8 +41,6 @@
   - This method uses the quantized version
   - Create pipeline to generate topic labels
   - Configure the prompt
-    - I changed the prompt a bit
-    - I found it kept making the labels too long
     - Could be optimized further
 
 ### Embeddings
