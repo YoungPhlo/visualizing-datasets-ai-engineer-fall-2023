@@ -4,7 +4,6 @@
 
 # Ignore specific file types
 .ipynb_checkpoints
-tools/.ipynb_checkpoints/additional_tools-checkpoint.ipynb
 
 # Skip directories, so we can recurse into them
 !*/
@@ -18,4 +17,5 @@ tools/.ipynb_checkpoints/additional_tools-checkpoint.ipynb
 !!topics_template.ipynb
 !/README.md
 
-# SSH SigKey
+# Re-ignored
+*checkpoint.ipynb
