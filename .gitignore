@@ -1,3 +1,4 @@
+# Configure .gitignore as a whitelist instead of a blacklist
 # Ignore everything
 *
 
