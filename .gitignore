@@ -1,5 +1,4 @@
 # Configure .gitignore as a whitelist
-# Ignore everything
 *
 
 # Ignore specific file types
@@ -10,12 +9,10 @@
 !/.gitignore
 
 # Whitelist
-!tools/**
+!tools/*.png
+!tools/additional_tools.ipynb
 !graphs/databricks*
 !datasets/databricks*
 !datasets/bulk_databricks*
 !!topics_template.ipynb
 !/README.md
-
-# Re-ignored
-*checkpoint.ipynb
