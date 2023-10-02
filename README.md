@@ -2,10 +2,10 @@
 ## Visualizing Datasets
 
 ### Setup
-	- Duplicate `!topics_template`
-	- Rename `!topics_template-Copy1` to `dataset_name`
-	- Close `!topics_template` to avoid any confusion
-	- Install required libraries
+- Duplicate `!topics_template`
+- Rename `!topics_template-Copy1` to `dataset_name`
+- Close `!topics_template` to avoid any confusion
+- Install required libraries
 
 ### Import and prepare the dataset
 	- Paste the `repo/dataset_name` string into `load_dataset`
