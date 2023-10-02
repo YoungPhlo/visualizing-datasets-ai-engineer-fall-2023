@@ -56,7 +56,7 @@
 		- For roughly 100,000 conversations I find that `min_cluster_size = 50` works best for me
 		- The goal of Maarten in the original Llama 2 tutorial was 100 topics after embedding
 			- In his case he use a `min_cluster_size` of `150` on ~100k rows
-			- These embeddings get used for x, y coordinates later on
+			- These embeddings get used for x, y coordinates later
 
 ### Training
 	- Train models and create topic visualization pipeline
