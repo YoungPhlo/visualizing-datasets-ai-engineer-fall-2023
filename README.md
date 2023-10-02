@@ -71,3 +71,4 @@
 
 ### Restart kernel and run all cells
 	- Task Mgr > Performance > GPU
+		- Monitor VRAM, 12GB is typical
