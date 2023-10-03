@@ -1,7 +1,18 @@
 # AI.Engineer Fall 2023 Talk
-## Visualizing Datasets
+
+## Slides
+
+### Summary
+- Ideal for anyone working with large datasets who wants to understand the topics, themes, clusters within their data before fine-tuning a model.
+- Keep your data private and local - does not require uploading datasets to third party services.
+- See conversations and themes you may not expect within your data.
+- Caveats: Can't fit extremely large datasets, models are non-deterministic so multiple runs may yield slightly different results.
+
+## Tutorial
 
 ### Setup
+- [Original Repo (BERTopic)](https://github.com/MaartenGr/BERTopic)
+- [Llama 2 Tutorial Notebook](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
 - Duplicate `!topics_template`
 - Rename `!topics_template-Copy1` to `dataset_name`
 - Close `!topics_template` to avoid any confusion
