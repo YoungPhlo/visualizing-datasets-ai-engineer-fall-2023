@@ -10,9 +10,11 @@
 
 ## Tutorial
 
-### Setup
+### Source
 - [Original Repo (BERTopic)](https://github.com/MaartenGr/BERTopic)
-- [Llama 2 Tutorial Notebook](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
+- [Original Tutorial Notebook](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
+
+### Setup
 - Duplicate `!topics_template`
 - Rename `!topics_template-Copy1` to `dataset_name`
 - Close `!topics_template` to avoid any confusion
