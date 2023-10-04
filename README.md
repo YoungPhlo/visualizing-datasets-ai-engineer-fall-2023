@@ -12,7 +12,7 @@
 
 ### Source
 - [Original Repo (BERTopic)](https://github.com/MaartenGr/BERTopic)
-- [Original Tutorial Notebook](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
+- [Original Notebook Tutorial](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
 
 ### Setup
 - Duplicate `!topics_template`
