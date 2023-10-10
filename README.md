@@ -4,17 +4,18 @@
 Here's a slide by slide annotation of the presentation:
 - [Slideshow Notes](https://phlo.info/visualizing-datasets-ai-engineer-fall-2023/)
 
-If you've seen one of these scatter plots and want to play around with it for yourself visit these links
-NOTE: Please give each page around 15 seconds to load. The page size is huge and my server is slow.
-- [Puffin dataset](https://phlo.info/visualized-datasets/puffin/)
-- [Open Hermes dataset](https://phlo.info/visualized-datasets/open-hermes/)
-- [Textbook Quality dataset](https://phlo.info/visualized-datasets/textbook-quality/)
-
 ### Summary
 - Ideal for anyone working with large datasets who wants to understand the topics, themes, clusters within their data before fine-tuning a model.
 - Keep your data private and local - does not require uploading datasets to third party services.
 - See conversations and themes you may not expect within your data.
 - Caveats: Can't fit extremely large datasets, models are non-deterministic so multiple runs may yield slightly different results.
+
+### Plots
+If you've seen one of these scatter plots and want to play around with it for yourself visit these links
+NOTE: Please give each page around 15 seconds to load. The page size is huge and my server is slow.
+- [Puffin dataset](https://phlo.info/visualized-datasets/puffin/)
+- [Open Hermes dataset](https://phlo.info/visualized-datasets/open-hermes/)
+- [Textbook Quality dataset](https://phlo.info/visualized-datasets/textbook-quality/)
 
 ## Tutorial
 
