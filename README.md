@@ -24,7 +24,7 @@ NOTE: Please give each page around 15 seconds to load. The page size is huge and
 - [Original Notebook Tutorial](https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
 
 ### Setup
-- Duplicate `!topics_template`
+- Duplicate `!topics_template.ipynb`
 - Rename `!topics_template-Copy1` to `dataset_name`
 - Close `!topics_template` to avoid any confusion
 - Install required libraries
